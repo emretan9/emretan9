@@ -17,7 +17,7 @@
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"
     />
   </a>
-   <a href="instagram.com/emretanrkulu9">
+   <a href="https://www.instagram.com/emretanrkulu9/">
     <img
       src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" align="left"
     />
