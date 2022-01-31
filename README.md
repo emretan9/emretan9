@@ -50,6 +50,4 @@
 
 
 
-[Linkedin]: linkedin.com/in/emre-zeki-tanrikulu-9887ab207
-[Twitter]: https://twitter.com/emretnrkl9
-[Instagram]:instagram.com/emretanrkulu9
+
