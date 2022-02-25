@@ -1,3 +1,4 @@
+<img src="https://media1.giphy.com/media/8o45PIF1Aojf5jpkXB/giphy.gif?cid=5e21488682d714557d71cea46a4c8a3b9cbcd792e0404983&rid=giphy.gif&ct=g"  align="left" width="150">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  align="right" width="400">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi+there%2C+I'm+Emre+)](https://git.io/typing-svg) <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="35" alignt="left"/>
