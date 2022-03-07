@@ -44,6 +44,6 @@
 
 
 <br />
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emretan9" alt="emretan9" /> </p>
 ## <summary>:bulb:  Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emretan9&layout=compact" >      [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/emretan9?cardType=github&theme=chartreuse-dark)](https://git.io/awesome-stats-card)
