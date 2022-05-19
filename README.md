@@ -15,7 +15,7 @@
       src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white" align="left"
     />
   </a>
-  <a href="https://www.linkedin.com/in/emre-zeki-tanrikulu-9887ab207/">
+  <a href="linkedin.com/in/emre-zeki-tanrikulu">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="left"
     />
