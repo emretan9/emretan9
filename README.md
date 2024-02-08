@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emretan9" alt="emretan9" /> </p>
 
-### Third year IT student at Yeditepe University 
+### Senior IT student at Yeditepe University 
 
 ### Reach out to me
 
